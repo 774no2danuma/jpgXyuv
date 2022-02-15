@@ -9,9 +9,6 @@ This program is a development version, and we are not responsible for any malfun
 * JPEG(RGB888)
 #### OUTPUT:
 * YUV444 (4:4:4)
-* YUV440 (4:4:0)
 * YUV422 (4:2:2)
 * YUV420 (4:2:0)
-* YUV411 (4:1:1)
-* YUV410 (4:1:0)
 * YUV400 (4:0:0)
