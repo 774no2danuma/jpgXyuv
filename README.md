@@ -1,6 +1,8 @@
 # jpgXyuv.exe v0.1.0.0
 本プログラムはJPEG形式のファイルを任意のYUV形式ファイルに一括変換するプログラムです
 
+配布されているファイルは現時点でWindows 10のみの対応です
+
 ダウンロードはこちらの[リンク](https://github.com/7ra4no/jpgXyuv/releases)より
 
 Assetsのプルダウンより`jpgXyuv.zip`をダウンロードしてください
